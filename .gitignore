@@ -1,0 +1,27 @@
+# ---- ASLA depoya girmemeli: oyun dosyalari ----
+*.bin
+*.xxx
+*.upk
+*.xex
+*.iso
+*.tfc
+*.turkceyama_yedek
+BCGame/
+CookedXbox360/
+
+# DLC paketleri (uzantisiz, uzun hex adli)
+[0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F][0-9A-F]*
+
+# ---- yerel calisma ----
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.log
+test_oyun/
+cikti/
+
+# ---- GitHub'a gitmeyenler (bilgisayarda kalir) ----
+CHANGELOG.md
+CONTRIBUTING.md
+belgeler/
