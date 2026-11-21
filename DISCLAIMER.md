@@ -16,14 +16,15 @@ denetlenmez.
 "Asura's Wrath" ve ilgili tüm isimler, karakterler ve görseller ilgili
 hak sahiplerine aittir.
 
-### Bu depo oyun dosyası içermez
+### Depodaki dosyalar
 
-Depoda oyunun hiçbir dosyası, verisi, sesi ya da görseli bulunmaz.
-Oyunun İngilizce metni de bulunmaz. Çeviri sözlüklerinde anahtar olarak
+Depoda oyunun dosyaları, verileri ve sesleri bulunmaz. Oyundan yalnızca
+yamayı tanıtan birkaç ekran görüntüsü var. Oyunun İngilizce metni de
+bulunmaz. Çeviri sözlüklerinde anahtar olarak
 İngilizce metnin SHA-1 özeti kullanılır.
 
 Yama, senin kendi bilgisayarında ve senin kendi oyun dosyan üzerinde
-çalışır. Değiştirilmiş oyun dosyası dağıtılmaz.
+çalışır.
 
 Bu yamayı kullanabilmek için oyunun yasal bir kopyasına sahip olman
 gerekir.
@@ -33,6 +34,7 @@ gerekir.
 - Türkçe çeviri metinleri (bu projenin özgün emeği)
 - Dosya formatlarını okuyan/yazan açık kaynak script'ler
 - Belgeler
+- Releases sayfasındaki hazır pakette, yama uygulanmış metin dosyaları
 
 ### Sorumluluk
 
@@ -68,14 +70,13 @@ or any rights holder of the game.
 "Asura's Wrath" and all related names, characters and artwork belong to
 their respective owners.
 
-### This repository contains no game files
+### What the repository contains
 
-No game assets, data, audio or artwork are included. The game's English
-script is not included either. Dictionary keys are SHA-1 digests of the
+No game assets, data or audio are included, apart from a few screenshots
+that show the patch. The game's English script is not included either. Dictionary keys are SHA-1 digests of the
 original lines, so the text itself is not stored.
 
-The patch operates **on your own machine, on your own copy of the game**.
-No modified game files are distributed.
+The patch operates on your own machine, on your own copy of the game.
 
 You must own a legal copy of the game to use this patch.
 
@@ -84,6 +85,7 @@ You must own a legal copy of the game to use this patch.
 - Turkish translation text (the original work of this project)
 - Open-source scripts that read and write the game's file formats
 - Documentation
+- Patched text files, in the ready-made package on the Releases page
 
 ### Warranty
 

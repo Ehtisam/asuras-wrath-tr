@@ -2,7 +2,10 @@
 
 Asura's Wrath'in Xbox 360 sürümü için bir Türkçe yama. Ana oyunu ve üç DLC bölümünü kapsar. Xenia emülatöründe denendi.
 
-Bu depoda oyun dosyası bulunmaz. Yama, senin bilgisayarındaki oyun dosyalarını okur ve çeviriyi orada uygular.
+| | |
+|---|---|
+| ![Ana menü](ekran-goruntuleri/ana-menu.webp) | ![Bölüm başlığı](ekran-goruntuleri/bolum-basligi.webp) |
+| ![Ara sahne](ekran-goruntuleri/ara-sahne.webp) | ![Diyalog](ekran-goruntuleri/diyalog.webp) |
 
 ## Kapsam
 
@@ -17,6 +20,12 @@ Bu depoda oyun dosyası bulunmaz. Yama, senin bilgisayarındaki oyun dosyaların
 Toplam 3854 benzersiz çeviri. Oyundaki çevrilebilir metnin tamamı.
 
 ## Kurulum
+
+### Hazır paket
+
+[Releases](https://github.com/Ehtisam/asuras-wrath-tr/releases) sayfasından `TurkceYama_AsurasWrath_X360_v1.1.rar` dosyasını indir. Ana oyun için hazır dosyalar paketin içinde; oyun klasörüne kopyalamak yeterli. DLC bölümleri için Python 3.8 ya da üstü gerekir. Paketteki `KURULUM.txt` dosyası adım adım anlatır.
+
+### Kaynaktan
 
 Python 3.8 ya da üstü gerekir.
 
@@ -87,6 +96,7 @@ Yazmadan önce değişen her dosyanın yedeğini (`.turkceyama_yedek`) alır.
 yamala.py              kurulum betiği
 arac/                  dosya biçimi okuyucuları (Coalesced, STFS)
 ceviri/                çeviri sözlükleri
+ekran-goruntuleri/     oyun içi ekran görüntüleri
 KURULUM.md             ayrıntılı kurulum
 DISCLAIMER.md          yasal durum
 ```
