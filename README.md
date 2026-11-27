@@ -1,6 +1,6 @@
-# Asura's Wrath Türkçe Yama (Xbox 360)
+# Asura's Wrath Türkçe Yama (Xbox 360 / Xenia)
 
-Asura's Wrath'in Xbox 360 sürümü için bir Türkçe yama. Ana oyunu ve üç DLC bölümünü kapsar. Xenia emülatöründe denendi.
+Asura's Wrath'in Xbox 360 (Emülatör) sürümü için bir Türkçe yama. Ana oyunu ve üç DLC bölümünü kapsar. Xenia emülatöründe denendi.
 
 | | |
 |---|---|
